@@ -1,4 +1,3 @@
-// WarningWindow.js
 import React from 'react';
 
 const WarningWindow = ({ onClose }) => {
